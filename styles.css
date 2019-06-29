@@ -1,0 +1,21 @@
+body {
+  background-color: lightblue;
+}
+
+#title {
+  color: purple;
+}
+
+input {
+  display: block;
+  margin-bottom: 10px;
+}
+
+#note-content {
+  width: 500px;
+}
+
+button {
+  background-color: blue;
+  color: white;
+}
