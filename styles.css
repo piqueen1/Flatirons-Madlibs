@@ -1,9 +1,11 @@
 body {
   background-color: lightblue;
+  width: 500px;
 }
 
 #title {
   color: purple;
+  text-align: center;
 }
 
 input {
@@ -18,4 +20,5 @@ input {
 button {
   background-color: blue;
   color: white;
+  width: 100px;
 }
